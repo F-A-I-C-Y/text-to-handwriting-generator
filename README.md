@@ -1,1 +1,1 @@
-# text-to-handwriting-generatotr
+# text-to-handwriting-generator
