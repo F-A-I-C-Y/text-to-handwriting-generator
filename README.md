@@ -20,4 +20,4 @@ This project was built as part of a Master's dissertation in Data Science and Bu
 - Download output as image or PDF
 - Option to draw diagrams and upload custom fonts or papers
 
-### 🌐 Live Demo: [View the live](https://starlit-buttercream-9101ab.netlify.app/) site to explore the interface and features in action.
+### 🌐 Live Demo: [View the live](https://text-into-handwriting-generator.netlify.app/) site to explore the interface and features in action.
