@@ -20,20 +20,4 @@ This project was built as part of a Master's dissertation in Data Science and Bu
 - Download output as image or PDF
 - Option to draw diagrams and upload custom fonts or papers
 
-## 📦 Getting Started
-
-### 🔧 Backend (Jupyter Notebook)
-1. Open the Jupyter Notebook file in the root directory.
-2. Run the cells in sequence to start the backend model.
-3. Ensure required Python libraries are installed (e.g., `TensorFlow`, `Pillow`).
-
-> Note: This project uses a pre-trained model. If you're running it for the first time, ensure the model files are placed correctly and paths are updated in the notebook.
-
-### 💻 Frontend
-To launch the frontend:
-
-```bash
-# Open CMD or PowerShell
-cd your-frontend-directory
-npm install
-npm run dev
+### 🌐 Live Demo: [View the live](https://starlit-buttercream-9101ab.netlify.app/) site to explore the interface and features in action.
